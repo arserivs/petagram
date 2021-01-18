@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dim_foto">250dp</dimen>
+    <dimen name="dim_boton">30dp</dimen>
+    <dimen name="dim_botonfav">35dp</dimen>
+    <dimen name="dim_nombre">30dp</dimen>
+    <dimen name="dim_texto">30dp</dimen>
+    <dimen name="dim_textofav">25dp</dimen>
+
+
+
+</resources>
